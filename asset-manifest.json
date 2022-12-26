@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/webfilmsearch-api/static/css/main.d673cf8f.css",
+    "main.js": "/webfilmsearch-api/static/js/main.5499e02f.js",
+    "static/js/787.981ffe58.chunk.js": "/webfilmsearch-api/static/js/787.981ffe58.chunk.js",
+    "index.html": "/webfilmsearch-api/index.html",
+    "main.d673cf8f.css.map": "/webfilmsearch-api/static/css/main.d673cf8f.css.map",
+    "main.5499e02f.js.map": "/webfilmsearch-api/static/js/main.5499e02f.js.map",
+    "787.981ffe58.chunk.js.map": "/webfilmsearch-api/static/js/787.981ffe58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d673cf8f.css",
+    "static/js/main.5499e02f.js"
+  ]
+}
